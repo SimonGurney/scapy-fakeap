@@ -6,3 +6,4 @@ push_trees.sh
 examples/dev.py
 *.pyc
 *.conf
+/.vs/slnx.sqlite
